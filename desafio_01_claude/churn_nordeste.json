@@ -1,0 +1,121 @@
+{
+  "regional": "Nordeste",
+  "data_extracao": "2026-02-13",
+  "clientes": [
+    {
+      "id_cliente": "NE-10201",
+      "info_pessoal": {
+        "genero": "Masculino",
+        "idoso": 0,
+        "parceiro": "Sim",
+        "dependentes": "Nao"
+      },
+      "conta": {
+        "meses_contrato": 12,
+        "tipo_contrato": "Mensal",
+        "pagamento": "Boleto bancário",
+        "cobranca_mensal": "89,90",
+        "cobranca_total": "1078,80"
+      },
+      "servicos": {
+        "telefone": "Sim",
+        "internet": "Fibra ótica",
+        "seguranca_online": "Nao",
+        "backup_online": "Nao"
+      },
+      "churn": "Sim"
+    },
+    {
+      "id_cliente": "NE-10202",
+      "info_pessoal": {
+        "genero": "Feminino",
+        "idoso": 1,
+        "parceiro": "Nao",
+        "dependentes": "Nao"
+      },
+      "conta": {
+        "meses_contrato": 48,
+        "tipo_contrato": "Dois anos",
+        "pagamento": "Cartão de crédito",
+        "cobranca_mensal": "45,50",
+        "cobranca_total": "2184,00"
+      },
+      "servicos": {
+        "telefone": "Sim",
+        "internet": "DSL",
+        "seguranca_online": "Sim",
+        "backup_online": "Sim"
+      },
+      "churn": "Nao"
+    },
+    {
+      "id_cliente": "NE-10203",
+      "info_pessoal": {
+        "genero": "Masculino",
+        "idoso": 0,
+        "parceiro": "Sim",
+        "dependentes": "Sim"
+      },
+      "conta": {
+        "meses_contrato": 2,
+        "tipo_contrato": "Mensal",
+        "pagamento": "Débito automático",
+        "cobranca_mensal": "120,00",
+        "cobranca_total": "240,00"
+      },
+      "servicos": {
+        "telefone": "Nao",
+        "internet": "Fibra ótica",
+        "seguranca_online": "Sim",
+        "backup_online": "Nao"
+      },
+      "churn": " "
+    },
+    {
+      "id_cliente": "NE-10204",
+      "info_pessoal": {
+        "genero": "",
+        "idoso": 0,
+        "parceiro": "Sim",
+        "dependentes": "Nao"
+      },
+      "conta": {
+        "meses_contrato": 24,
+        "tipo_contrato": "Um ano",
+        "pagamento": "Boleto bancário",
+        "cobranca_mensal": "75,30",
+        "cobranca_total": "1807,20"
+      },
+      "servicos": {
+        "telefone": "Sim",
+        "internet": "Fibra ótica",
+        "seguranca_online": "Nao",
+        "backup_online": "Sim"
+      },
+      "churn": "Nao"
+    },
+    {
+      "id_cliente": "NE-10205",
+      "info_pessoal": {
+        "genero": "Feminino",
+        "idoso": 1,
+        "parceiro": "Nao",
+        "dependentes": "Nao"
+      },
+      "conta": {
+        "meses_contrato": 1,
+        "tipo_contrato": "Mensal",
+        "pagamento": "Boleto bancário",
+        "cobranca_mensal": "99,99",
+        "cobranca_total": "99,99"
+      },
+      "servicos": {
+        "telefone": "Sim",
+        "internet": "Fibra ótica",
+        "seguranca_online": "Nao",
+        "backup_online": "Nao"
+      },
+      "churn": "Sim"
+    }
+  ]
+}
