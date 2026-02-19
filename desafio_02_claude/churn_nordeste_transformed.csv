@@ -1,0 +1,6 @@
+id_cliente;churn;info_pessoal.genero;info_pessoal.idoso;info_pessoal.parceiro;info_pessoal.dependentes;conta.meses_contrato;conta.tipo_contrato;conta.pagamento;conta.cobranca_mensal;conta.cobranca_total;servicos.telefone;servicos.internet;servicos.seguranca_online;servicos.backup_online
+NE-10201;Sim;Masculino;0;Sim;Nao;12;Mensal;Boleto bancÃ¡rio;89,90;1078,80;Sim;Fibra Ã³tica;Nao;Nao
+NE-10202;Nao;Feminino;1;Nao;Nao;48;Dois anos;CartÃ£o de crÃ©dito;45,50;2184,00;Sim;DSL;Sim;Sim
+NE-10203;;Masculino;0;Sim;Sim;2;Mensal;DÃ©bito automÃ¡tico;120,00;240,00;Nao;Fibra Ã³tica;Sim;Nao
+NE-10204;Nao;;0;Sim;Nao;24;Um ano;Boleto bancÃ¡rio;75,30;1807,20;Sim;Fibra Ã³tica;Nao;Sim
+NE-10205;Sim;Feminino;1;Nao;Nao;1;Mensal;Boleto bancÃ¡rio;99,99;99,99;Sim;Fibra Ã³tica;Nao;Nao
