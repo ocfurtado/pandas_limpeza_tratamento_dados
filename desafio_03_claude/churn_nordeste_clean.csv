@@ -1,0 +1,8 @@
+;id_cliente;churn;info_pessoal_genero;info_pessoal_idoso;info_pessoal_parceiro;info_pessoal_dependentes;conta_meses_contrato;conta_tipo_contrato;conta_pagamento;conta_cobranca_mensal;conta_cobranca_total;servicos_telefone;servicos_internet;servicos_seguranca_online;servicos_backup_online;regional;data_extracao
+0;NE-10201;Sim;Masculino;0;Sim;Nao;12;Mensal;Boleto bancÃ¡rio;89.9;1078.8;Sim;Fibra Ã³tica;Nao;Nao;Nordeste;2026-02-13
+1;NE-10202;Nao;Feminino;1;Nao;Nao;48;Dois anos;CartÃ£o de crÃ©dito;45.5;2184.0;Sim;DSL;Sim;Sim;Nordeste;2026-02-13
+2;NE-10202;Sim;Feminino;1;Nao;Nao;6;Mensal;DÃ©bito automÃ¡tico;72.0;432.0;Sim;Fibra Ã³tica;Nao;Nao;Nordeste;2026-02-13
+3;NE-10204;Nao;Feminino;0;Sim;Nao;24;Um ano;Boleto bancÃ¡rio;75.3;1807.2;Sim;Fibra Ã³tica;Nao;Sim;Nordeste;2026-02-13
+4;NE-10205;Sim;Feminino;1;Nao;Nao;1;Mensal;Boleto bancÃ¡rio;99.99;99.99;Sim;Fibra Ã³tica;Nao;Nao;Nordeste;2026-02-13
+5;NE-10206;Nao;Masculino;0;Nao;Nao;36;Dois anos;CartÃ£o de crÃ©dito;55.0;1980.0;Sim;DSL;Sim;Sim;Nordeste;2026-02-13
+6;NE-10207;Nao;Feminino;0;Sim;Sim;8;Mensal;Boleto bancÃ¡rio;110.5;884.0;Sim;Fibra Ã³tica;Nao;Nao;Nordeste;2026-02-13
