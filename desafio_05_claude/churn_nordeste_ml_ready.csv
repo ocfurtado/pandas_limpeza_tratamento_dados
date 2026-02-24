@@ -1,0 +1,16 @@
+id_cliente;churn;info_pessoal_genero;info_pessoal_idoso;info_pessoal_parceiro;info_pessoal_dependentes;conta_meses_contrato;conta_cobranca_mensal;conta_cobranca_total;servicos_telefone;servicos_seguranca_online;servicos_backup_online;conta_tipo_contrato_Mensal;conta_tipo_contrato_Um ano;conta_pagamento_CartÃ£o de crÃ©dito;conta_pagamento_DÃ©bito automÃ¡tico;servicos_internet_Fibra Ã³tica
+NE-10201;1;1;0;1;0;12;89.9;1078.8;1;0;0;1;0;0;0;1
+NE-10202;0;0;1;0;0;48;45.5;2184.0;1;1;1;0;0;1;0;0
+NE-10203;1;1;0;1;1;2;120.0;240.0;0;1;0;1;0;0;1;1
+NE-10204;0;0;0;1;0;24;75.3;1807.2;1;0;1;0;1;0;0;1
+NE-10205;1;0;1;0;0;1;99.99;99.99;1;0;0;1;0;0;0;1
+NE-10206;0;1;0;0;0;36;55.0;1980.0;1;1;1;0;0;1;0;0
+NE-10207;0;1;0;1;1;8;110.5;884.0;1;0;0;1;0;0;0;1
+NE-10208;0;0;1;0;0;15;65.0;975.0;0;1;1;0;1;0;1;0
+NE-10209;0;1;0;0;0;84;70.0;4857.0;1;0;0;1;0;0;0;1
+NE-10210;1;0;0;1;1;18;0.01;0.18;0;0;0;0;1;1;0;0
+NE-10211;0;1;1;0;0;60;50.0;3000.0;1;1;1;0;0;0;1;0
+NE-10212;1;0;0;1;0;6;158.9875;4857.0;1;1;1;1;0;0;0;1
+NE-10213;0;1;0;0;1;30;85.0;2550.0;1;0;1;0;0;1;0;1
+NE-10214;1;0;1;1;0;10;95.0;950.0;1;0;0;1;0;0;0;1
+NE-10215;0;1;0;0;0;42;58.0;2436.0;1;1;1;0;0;0;1;0
